@@ -1,0 +1,25 @@
+*{
+  line-height: 5px;
+  text-align: center;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+.containeer{
+  background: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+.font-weight-bold {
+  padding: 1rem;
+}
+
+.icon {
+  width: 10rem;
+  height: 10rem;
+}
+.temp-fer {
+ display: none;
+}
